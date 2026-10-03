@@ -53,7 +53,7 @@ The model covers **1 May 2022 through 31 July 2022** (92 days).
 | No-show rate | 5.02% |
 | Average rating | 3.62 |
 
-Currency is presented in the same units as the source model; the PBIX does not explicitly document a currency code.
+Currency is presented in the Rupees
 
 ## Brief insights
 
@@ -63,7 +63,7 @@ Currency is presented in the same units as the source model; the PBIX does not e
 - Booking-platform ADR and realisation are tightly clustered. Platform revenue differences are therefore mostly explained by booking volume.
 - Revenue was relatively stable over the three months: **581.9m in May**, **553.9m in June**, and **572.9m in July**.
 
-See [BUSINESS_INSIGHTS.md](BUSINESS_INSIGHTS.md) for interview-ready interpretation and [measures.md](measures.md) for the complete DAX measure catalog.
+See [measures.md](measures.md) for the complete DAX measure catalog.
 
 ## Repository contents
 
